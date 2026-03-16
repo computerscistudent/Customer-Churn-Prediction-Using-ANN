@@ -4,4 +4,4 @@ scikit-learn
 tensorflow>=2.16.0
 tensorboard>=2.16.0
 matplotlib
-streamlit
+streamlit>=1.35.0
